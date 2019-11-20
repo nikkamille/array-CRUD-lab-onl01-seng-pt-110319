@@ -37,5 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  nikki = ["Mahal ko", "Baby-shi", "Gai-sensei", "Malabs", "arrays!"]
+  nikki[-1]
 end
