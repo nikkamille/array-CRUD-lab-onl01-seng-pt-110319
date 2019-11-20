@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   nikki = ["wow", "Mahal ko", "Baby-shi", "Gai-sensei", "Malabs"]
-  array = nikki
+  array = nikki.shift 
 end
 
 def retrieve_element_from_index(array, index_number)
