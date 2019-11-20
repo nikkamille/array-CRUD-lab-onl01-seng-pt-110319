@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  Nikki = ["Mahal ko", "Baby-shi", "Gai-sensei", "Malabs"]
+  nikki = ["Mahal ko", "Baby-shi", "Gai-sensei", "Malabs"]
 end
 
 def add_element_to_end_of_array(array, element)
