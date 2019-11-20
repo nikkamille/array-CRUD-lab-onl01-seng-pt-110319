@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   nikki = ["Mahal ko", "Baby-shi", "Gai-sensei", "Malabs"]
-  nikki << "Baby"
+  nikki << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
